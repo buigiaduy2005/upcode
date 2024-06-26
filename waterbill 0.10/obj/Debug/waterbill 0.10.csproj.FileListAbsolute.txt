@@ -1,7 +1,0 @@
-C:\Users\ASUS\source\repos\waterbill 0.10\bin\Debug\waterbill 0.10.exe.config
-C:\Users\ASUS\source\repos\waterbill 0.10\bin\Debug\waterbill 0.10.exe
-C:\Users\ASUS\source\repos\waterbill 0.10\bin\Debug\waterbill 0.10.pdb
-C:\Users\ASUS\source\repos\waterbill 0.10\obj\Debug\waterbill 0.10.csproj.AssemblyReference.cache
-C:\Users\ASUS\source\repos\waterbill 0.10\obj\Debug\waterbill 0.10.csproj.CoreCompileInputs.cache
-C:\Users\ASUS\source\repos\waterbill 0.10\obj\Debug\waterbill 0.10.exe
-C:\Users\ASUS\source\repos\waterbill 0.10\obj\Debug\waterbill 0.10.pdb
