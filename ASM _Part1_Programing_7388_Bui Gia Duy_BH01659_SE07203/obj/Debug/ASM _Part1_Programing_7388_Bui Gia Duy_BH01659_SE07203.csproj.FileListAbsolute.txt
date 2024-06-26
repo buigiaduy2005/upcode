@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\bin\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.exe.config
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\bin\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.exe
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\bin\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.pdb
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\obj\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\obj\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\obj\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.exe
+C:\Users\ASUS\source\repos\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203\obj\Debug\ASM _Part1_Programing_7388_Bui Gia Duy_BH01659_SE07203.pdb
