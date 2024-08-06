@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\bin\Debug\ASM_Part2_WaterBill.exe.config
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\bin\Debug\ASM_Part2_WaterBill.exe
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\bin\Debug\ASM_Part2_WaterBill.pdb
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.Form1.resources
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.exe
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.pdb
+C:\Users\ASUS\source\repos\ASM_Part2_WaterBill\obj\Debug\ASM_Part2_WaterBill.WaterBill_Total.resources
