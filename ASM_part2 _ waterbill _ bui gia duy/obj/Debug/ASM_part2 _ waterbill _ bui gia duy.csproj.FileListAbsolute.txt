@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\bin\Debug\ASM_part2 _ waterbill _ bui gia duy.exe.config
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\bin\Debug\ASM_part2 _ waterbill _ bui gia duy.exe
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\bin\Debug\ASM_part2 _ waterbill _ bui gia duy.pdb
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2 _ waterbill _ bui gia duy.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2___waterbill___bui_gia_duy.Form1.resources
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2___waterbill___bui_gia_duy.WaterBill_Total.resources
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2___waterbill___bui_gia_duy.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2 _ waterbill _ bui gia duy.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2 _ waterbill _ bui gia duy.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2 _ waterbill _ bui gia duy.exe
+C:\Users\ASUS\source\repos\ASM_part2 _ waterbill _ bui gia duy\obj\Debug\ASM_part2 _ waterbill _ bui gia duy.pdb
